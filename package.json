@@ -1,0 +1,23 @@
+{
+  "name": "lab_6",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/samplex191-boop/lab_6#readme",
+  "bugs": {
+    "url": "https://github.com/samplex191-boop/lab_6/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samplex191-boop/lab_6.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "module": "^2.0.0"
+  }
+}
