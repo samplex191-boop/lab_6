@@ -1,4 +1,3 @@
-// READ Operation - fs.readFile()
 var fs = require('fs');
 
 fs.readFile('data.txt', 'utf8', function (err, data) {
